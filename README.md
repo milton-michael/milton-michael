@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Milton Michael! 👋
 
-<!--
-**milton-michael/milton-michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 B.Tech Computer Science Student | Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to solve logical problems and build things through code. I am constantly learning and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Database_DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS" />
+</p>
+
+---
+
+### 🚀 About Me:
+- 🎓 Currently pursuing **B.Tech in Computer Science**
+- 🌱 I’m currently strengthening my knowledge in **Data Structures, Algorithms, and Object-Oriented Programming**
+- 💬 Ask me about **Python, Java, or C**
+- 📫 How to reach me: **[miltonmichaelmattappallil@gmail.com](mailto:miltonmichaelmattappallil@gmail.com)**
+- 🔗 LinkedIn: **[Milton Michael](https://www.linkedin.com/in/milton-michael-3b6807327/)**
+
+---
+
+### 📊 My GitHub Stats:
+![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=milton-michael&show_icons=true&theme=tokyonight)
