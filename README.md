@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to s
 - 🌱 I’m currently strengthening my knowledge in **Data Structures, Algorithms, and Object-Oriented Programming**
 - 💬 Ask me about **Python, Java, or C**
 - 📫 How to reach me: **[miltonmichaelmattappallil@gmail.com](mailto:miltonmichaelmattappallil@gmail.com)**
-- 🔗 LinkedIn: **[Milton Michael](https://www.linkedin.com/in/milton-michael-3b6807327/)**
+- 🔗 LinkedIn: **[Milton Michael](https://www.linkedin.com/in/milton-michael/)**
 
 ---
 
