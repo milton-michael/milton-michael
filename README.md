@@ -28,4 +28,4 @@ Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to s
 ---
 
 ### 📊 My GitHub Stats:
-![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=milton-michael&show_icons=true&theme=tokyonight)
+![Milton's GitHub Streak](https://streak-stats.demolab.com/?user=milton-michael&theme=tokyonight)
