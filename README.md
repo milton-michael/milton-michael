@@ -30,25 +30,16 @@ Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to s
 ### 📊 My GitHub Stats:
 
 <p align="left">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=milton-michael&theme=dark&v=1" alt="Milton's GitHub Streak" />
+  <!-- GitHub Streak Stats (Working) -->
+  <img src="https://streak-stats.demolab.com/?user=milton-michael&theme=dark" alt="Milton's GitHub Streak" />
 </p>
 
 <p align="left">
   <!-- Overall Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=milton-michael&show_icons=true&theme=dark&v=1" alt="Milton's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=milton-michael&show_icons=true&theme=dark&v=999" alt="Milton's GitHub Stats" />
 </p>
 
 <p align="left">
   <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton-michael&layout=compact&theme=dark&v=1" alt="Top Languages" />
-</p>
-<p align="left">
-  <!-- Overall Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=milton-michael&show_icons=true&theme=dark" alt="Milton's GitHub Stats" />
-</p>
-
-<p align="left">
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton-michael&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton-michael&layout=compact&theme=dark&v=999" alt="Top Languages" />
 </p>
