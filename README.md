@@ -28,4 +28,18 @@ Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to s
 ---
 
 ### 📊 My GitHub Stats:
-![Milton's GitHub Streak](https://streak-stats.demolab.com/?user=milton-michael&theme=tokyonight)
+
+<p align="left">
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=milton-michael&theme=dark" alt="Milton's GitHub Streak" />
+</p>
+
+<p align="left">
+  <!-- Overall Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=milton-michael&show_icons=true&theme=dark" alt="Milton's GitHub Stats" />
+</p>
+
+<p align="left">
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton-michael&layout=compact&theme=dark" alt="Top Languages" />
+</p>
