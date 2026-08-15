@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to s
 ### 📊 My GitHub Stats:
 
 <p align="left">
-  <!-- GitHub Streak Stats (Switched to official demolab server) -->
-  <img src="https://streak-stats.demolab.com/?user=milton-michael&theme=dark" alt="Milton's GitHub Streak" />
+  <!-- GitHub Streak Stats (Generated locally via GitHub Action) -->
+  <img src="./streak.svg" alt="Milton's GitHub Streak" />
 </p>
 
 <p align="left">
