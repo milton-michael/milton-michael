@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to s
 ### 📊 My GitHub Stats:
 
 <p align="left">
-  <!-- GitHub Streak Stats (Official demolab server + Timezone + Cache Buster) -->
-  <img src="https://streak-stats.demolab.com/?user=milton-michael&theme=dark&timezone=Asia/Kolkata&v=1" alt="Milton's GitHub Streak" />
+  <!-- Cache Buster updated to v=2 -->
+  <img src="https://streak-stats.demolab.com/?user=milton-michael&theme=dark&timezone=Asia/Kolkata&v=2" alt="Milton's GitHub Streak" />
 </p>
 
 <p align="left">
@@ -46,4 +46,3 @@ Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to s
   <!-- Most Used Languages Card (Working) -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=milton-michael&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-<!-- Aug 12 Patch -->
