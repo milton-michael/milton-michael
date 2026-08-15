@@ -33,16 +33,16 @@ Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to s
 ### 📊 My GitHub Stats:
 
 <p align="left">
-  <!-- GitHub Streak Stats (Switched to the official, stable server) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milton-michael&theme=dark" alt="Milton's GitHub Streak" />
+  <!-- GitHub Streak Stats (Already Working) -->
+  <img src="https://streak-stats.demolab.com/?user=milton-michael&theme=dark" alt="Milton's GitHub Streak" />
 </p>
 
 <p align="left">
-  <!-- Overall Stats Card -->
+  <!-- Overall Stats Card (Fixed) -->
   <img src="https://github-stats-extended.vercel.app/api?username=milton-michael&show_icons=true&theme=dark" alt="Milton's GitHub Stats" />
 </p>
 
 <p align="left">
-  <!-- Most Used Languages Card -->
+  <!-- Most Used Languages Card (Fixed) -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=milton-michael&layout=compact&theme=dark" alt="Top Languages" />
 </p>
