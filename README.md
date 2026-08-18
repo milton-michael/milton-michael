@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to solve logical problems and build things through code. I am constantly learning and exploring new technologies.
 
----
+--- 
 
 ### 🛠️ My Tech Stack:
 
