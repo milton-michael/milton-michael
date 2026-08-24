@@ -14,7 +14,7 @@
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=milton-michael&style=for-the-badge&label=PROFILE+VIEWS&color=00599C" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=milton-michael&style=for-the-badge&label=PROFILE+VIEWS&color=00599C&v=500" alt="Profile Views" />
 </div>
 
 ---
