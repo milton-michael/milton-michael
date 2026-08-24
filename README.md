@@ -14,8 +14,8 @@
 
   <br><br>
 
-  <!-- Static Profile Views (Change 1500 to whatever number you want) -->
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-1423-00599C?style=for-the-badge" alt="Profile Views" />
+  <!-- Custom Vercel Counter API -->
+  <img src="https://profile-counter-swart.vercel.app/api" alt="Profile Views" />
 </div>
 
 ---
