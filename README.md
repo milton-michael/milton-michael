@@ -14,7 +14,8 @@
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=milton-michael&style=for-the-badge&label=PROFILE+VIEWS&color=00599C&v=500" alt="Profile Views" />
+  <!-- Static Profile Views (Change 1500 to whatever number you want) -->
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-1500-00599C?style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
