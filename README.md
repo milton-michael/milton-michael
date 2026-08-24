@@ -42,7 +42,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://trophy.benkou.dev/?username=milton-michael&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=milton-michael&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&v=2" alt="GitHub Trophies" />
 </p>
 
 ---
