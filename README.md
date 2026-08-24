@@ -1,55 +1,71 @@
-# Hi there, I'm Milton Michael! 👋
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:00599C&text=Milton%20Michael&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20B.Tech%20CSE&descAlignY=51&descAlign=62"/>
 
-### 👨‍💻 B.Tech Computer Science & Engineering Student | Software Developer
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+%26+Engineering;Full-Stack+Software+Developer;Building+CodeArena;Always+Learning+New+Technologies" alt="Typing SVG" />
+  
+  <br><br>
 
-Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to solve logical problems and build things through code. I am constantly learning and exploring new technologies.
+  <a href="https://www.linkedin.com/in/milton-michael/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:miltonmichaelmattappallil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
---- 
+  <br><br>
 
-### 🛠️ My Tech Stack:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=milton-michael&style=for-the-badge&label=PROFILE+VIEWS&color=00599C" alt="Profile Views" />
+</div>
 
 ---
 
-### 🚀 About Me:
+### 🚀 About Me
+
 - 🎓 Currently pursuing **B.Tech in Computer Science and Engineering**
 - 🔭 I’m currently building **CodeArena**, a full-stack algorithm practice platform.
 - 🌱 I’m currently strengthening my knowledge in **Data Structures, Algorithms, and Object-Oriented Programming**
 - 💬 Ask me about **Python, Java, C, React, or FastAPI**
-- 📫 How to reach me: **[miltonmichaelmattappallil@gmail.com](mailto:miltonmichaelmattappallil@gmail.com)**
-- 🔗 LinkedIn: **[Milton Michael](https://www.linkedin.com/in/milton-michael/)**
 
 ---
 
-### 📊 My GitHub Stats:
+### 🛠️ My Tech Stack
 
 <p align="left">
-  <!-- Cache Buster updated to v=2 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,html,react,fastapi,mysql,docker,git,github,vscode&theme=dark" alt="Milton's Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=milton-michael&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=milton-michael&theme=dark&timezone=Asia/Kolkata&v=2" alt="Milton's GitHub Streak" />
 </p>
 
 <p align="left">
-  <!-- Overall Stats Card (Working) -->
+  <!-- Overall Stats Card -->
   <img src="https://github-stats-extended.vercel.app/api?username=milton-michael&show_icons=true&theme=dark" alt="Milton's GitHub Stats" />
 </p>
 
 <p align="left">
-  <!-- Most Used Languages Card (Working) -->
+  <!-- Most Used Languages Card -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=milton-michael&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
-### 🐍 Contribution Graph:
+### 🐍 Contribution Graph
 
 <div align="left">
   <picture>
