@@ -46,3 +46,15 @@ Welcome to my GitHub profile! I am a passionate B.Tech CS student who loves to s
   <!-- Most Used Languages Card (Working) -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=milton-michael&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+---
+
+### 🐍 Contribution Graph:
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milton-michael/milton-michael/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milton-michael/milton-michael/output/github-snake.svg">
+    <img alt="Milton's Contribution Snake" src="https://raw.githubusercontent.com/milton-michael/milton-michael/output/github-snake.svg">
+  </picture>
+</div>
