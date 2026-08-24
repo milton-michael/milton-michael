@@ -14,8 +14,8 @@
 
   <br><br>
 
-  <!-- Custom Vercel Counter API -->
-  <img src="https://profile-counter-swart.vercel.app/api" alt="Profile Views" />
+  <!-- Custom Vercel Counter API with cache buster -->
+  <img src="https://profile-counter-swart.vercel.app/api?v=1" alt="Profile Views" />
 </div>
 
 ---
